@@ -8,7 +8,7 @@ const Login = () => {
       <div className="parent clearfix">
   <div className="bg-illustration">
     <h1>
-      <span>By Aakash Goradia</span>
+      <span>Aakash Goradia</span>
     </h1>
     <div className="burger-btn">
       <span />

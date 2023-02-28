@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
-import Login from './Components/LoginPage/Login.js';
-
+import SignUp from './Components/LoginGDSC/SignUp';
 function App() {
   return (
-    <div className="App">
-      <Login/>
+    <div className="App overflow-hidden">
+      <SignUp/>
     </div>
   ); 
 }
